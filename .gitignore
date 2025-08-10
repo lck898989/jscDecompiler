@@ -1,0 +1,11 @@
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+venv/
+.idea/
+dist/
+build/
+*.egg-info/
+log.txt
+*.jsc
+*.js
